@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clement-Quaye
+- 👋 Hi, I’m @Clement-Quaye the founder of P. EigenTech; the Innovation Cradle nurturing tech activists in Ghana.
 - 👀 I’m interested in AI/ML, Web & Mobile Development
 - 🌱 I’m currently learning Applied Data Science at WorldQuant University
 - 💞️ I’m looking to collaborate on Modelling & Mobile App Development projects
