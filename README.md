@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clement-Quaye co-founder of P. EigenTech; Ghana's Digital Innovation Cradle.
+- 👋 Hi, I’m @Clement Quaye
 - 👀 I’m interested in AI/ML, Data Analysis, Web & Mobile Application Development
 - 💞️ I’m looking to collaborate on Modelling & Mobile App Development projects
 - 📫 How to reach me: clemaddo@gmail.com
