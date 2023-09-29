@@ -1,3 +1,5 @@
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b4f96b40-b123-419f-a593-60e0568c5acf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 - 👋 Hi, I’m @Clement Quaye
 - 👀 I’m interested in Cybersecurity, Data Analysis & Mobile Application Development
 - 🌱 Skills: Python | Flutter | Pentesting
