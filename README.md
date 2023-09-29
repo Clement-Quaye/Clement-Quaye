@@ -1,4 +1,5 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b4f96b40-b123-419f-a593-60e0568c5acf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+![certified-in-cybersecurity-cc](https://github.com/Clement-Quaye/Clement-Quaye/assets/67621550/ba54f6d2-d8be-43da-a556-e877e9007364)
 
 - 👋 Hi, I’m @Clement Quaye
 - 👀 I’m interested in Cybersecurity, Data Analysis & Mobile Application Development
