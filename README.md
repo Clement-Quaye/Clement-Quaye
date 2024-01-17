@@ -2,7 +2,7 @@
 ![certified-in-cybersecurity-cc](https://github.com/Clement-Quaye/Clement-Quaye/assets/67621550/ba54f6d2-d8be-43da-a556-e877e9007364)
 
 # Welcome! 👋
-Hello!, I'm [Clement Quaye](https://github.com/Clement-Quaye) a Cybersecurity enthusiast with a rich background in Electrical & Electronic Engineering and Sustainable Energy Systems. My passion lies at the intersection of cybersecurity, data analysis, and mobile app development. From leading cybersecurity initiatives at the Ministry of Energy in Ghana to diving deep into data-driven insights for sustainable energy at the University of Glasgow, I've always been driven by the potential of technology to address global challenges. My GitHub showcases my hands-on journey through various CTF challenges, comprehensive data analyses, and intuitive mobile app projects built with Flutter. Explore, collaborate, and let's harness the power of technology together!
+Hello!, I'm [Clement Quaye](https://github.com/Clement-Quaye) a Cybersecurity enthusiast with a rich background in Electrical & Electronic Engineering and Sustainable Energy Systems. My passion lies at the intersection of cybersecurity, data analysis, and mobile app development. From leading cybersecurity initiatives at the Ministry of Energy in Ghana to diving deep into data-driven insights for sustainable energy-related projects, I've always been driven by the potential of technology to address global challenges. My GitHub showcases my hands-on journey through various CTF challenges, comprehensive data analyses, and intuitive mobile app projects built with Flutter. Explore, collaborate, and let's harness the power of technology together!
 
 
 ## 🛡️ Cybersecurity
